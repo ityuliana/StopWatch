@@ -4,5 +4,5 @@ Features start, stop, lap and reset controls implemented using Qt widgets and si
 
 **Technologies:** C++, Qt, Qt Creator
 
-<img width="273" height="353" alt="image" src="https://github.com/user-attachments/assets/a258287e-0491-4887-b677-77b0a5dcb8c8" />
+<img width="273" height="353" alt="image" align-items ='center src="https://github.com/user-attachments/assets/a258287e-0491-4887-b677-77b0a5dcb8c8" />
 
